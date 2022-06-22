@@ -1,0 +1,14 @@
+[
+    {
+        "nama" : "wisnu",
+        "umur" : 21,
+        "lulus" : false,
+        "hobi" : ["Gaming", "Makan"]
+    },
+    {
+        "nama" : "wisnu",
+        "umur" : 21,
+        "lulus" : false,
+        "hobi" : ["Gaming", "Makan"]
+    }
+]
